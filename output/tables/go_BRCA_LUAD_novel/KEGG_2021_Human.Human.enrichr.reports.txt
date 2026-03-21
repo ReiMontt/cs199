@@ -1,0 +1,6 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	Cell cycle	3/124	2.703977e-05	1.351989e-04	0	0	7.037426e+01	7.402107e+02	CDC45;ESPL1;MAD2L1
+KEGG_2021_Human	Oocyte meiosis	2/129	1.795768e-03	4.489419e-03	0	0	3.910039e+01	2.472053e+02	ESPL1;MAD2L1
+KEGG_2021_Human	Human T-cell leukemia virus 1 infection	2/219	5.068989e-03	8.448314e-03	0	0	2.277995e+01	1.203833e+02	ESPL1;MAD2L1
+KEGG_2021_Human	Progesterone-mediated oocyte maturation	1/100	4.890039e-02	6.112549e-02	0	0	2.232435e+01	6.737423e+01	MAD2L1
+KEGG_2021_Human	MicroRNAs in cancer	1/310	1.446537e-01	1.446537e-01	0	0	7.076951e+00	1.368267e+01	KIF23
